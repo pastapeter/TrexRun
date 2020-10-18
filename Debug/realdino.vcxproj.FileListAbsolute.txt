@@ -1,0 +1,2 @@
+\\Mac\Home\Desktop\Bangtal\realdino\Debug\realdino.exe
+\\Mac\Home\Desktop\Bangtal\realdino\Debug\realdino.pdb
