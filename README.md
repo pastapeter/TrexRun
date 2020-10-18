@@ -19,3 +19,7 @@
 다음과 같이 공룡이 죽을 경우 자신의 점수와 만약 자신의 점수가 최고 점수면 HIGHSCORE와 함께 뜬다.
 
 <img width="644" alt="스크린샷 2020-10-18 오후 11 23 54" src="https://user-images.githubusercontent.com/69891604/96370501-ffd85180-1198-11eb-8a96-01855d346252.png">
+
+
+공룡 죽었을때 자신의 점수가 최고 점수가 아니라면 그냥 SCORE만 뜨게 된다.
+<img width="633" alt="스크린샷 2020-10-18 오후 11 28 25" src="https://user-images.githubusercontent.com/69891604/96370671-a0c70c80-1199-11eb-88ab-d4e5ad4def9d.png">
